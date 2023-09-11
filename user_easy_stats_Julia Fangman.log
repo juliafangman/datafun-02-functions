@@ -1,0 +1,32 @@
+2023-09-10 16:49:36,489.user_easy_stats_Julia Fangman.INFO ==================================================
+2023-09-10 16:49:36,490.user_easy_stats_Julia Fangman.INFO Today is 2023-09-10 at 04:49 PM
+2023-09-10 16:49:36,490.user_easy_stats_Julia Fangman.INFO Running on: posix Darwin 22.6.0
+2023-09-10 16:49:36,490.user_easy_stats_Julia Fangman.INFO Python version:  3.11.4
+2023-09-10 16:49:36,491.user_easy_stats_Julia Fangman.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-10 16:49:36,491.user_easy_stats_Julia Fangman.INFO Working dir: /Users/juliafangman/Desktop/Project 2
+2023-09-10 16:49:36,491.user_easy_stats_Julia Fangman.INFO ==================================================
+2023-09-10 16:49:36,574.user_easy_stats_Julia Fangman.INFO uni_data = [41, 42, 55, 41, 54, 53, 32, 65, 82, 61, 74, 75, 70, 61, 78, 64]
+2023-09-10 16:49:36,578.user_easy_stats_Julia Fangman.INFO mean   = 59.25
+2023-09-10 16:49:36,578.user_easy_stats_Julia Fangman.INFO median = 61.00
+2023-09-10 16:49:36,578.user_easy_stats_Julia Fangman.INFO mode   = 41.00
+2023-09-10 16:49:36,579.user_easy_stats_Julia Fangman.INFO var    =  220.20
+2023-09-10 16:49:36,579.user_easy_stats_Julia Fangman.INFO stdev  =  14.84
+2023-09-10 16:49:36,579.user_easy_stats_Julia Fangman.INFO lowest =  32.00
+2023-09-10 16:49:36,579.user_easy_stats_Julia Fangman.INFO highest=  82.00
+2023-09-10 16:49:36,581.user_easy_stats_Julia Fangman.WARNING Correlation requires Python version 3.10 or greater.
+2023-09-10 16:49:36,581.user_easy_stats_Julia Fangman.WARNING Your version is 3.11
+2023-09-10 16:49:36,582.user_easy_stats_Julia Fangman.INFO Here's some time series data:
+2023-09-10 16:49:36,583.user_easy_stats_Julia Fangman.INFO xtimes:[2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
+2023-09-10 16:49:36,583.user_easy_stats_Julia Fangman.INFO yvalues:[41, 42, 55, 41, 54, 53, 32, 65, 82, 61, 74, 75, 70, 61, 78, 64]
+2023-09-10 16:49:36,583.user_easy_stats_Julia Fangman.INFO correlation between xtimes and xtimes = 1.00
+2023-09-10 16:49:36,583.user_easy_stats_Julia Fangman.INFO correlation between xtimes and yvalues = 0.71
+2023-09-10 16:49:36,583.user_easy_stats_Julia Fangman.INFO Here's some bivariant data (2 variables, together):
+2023-09-10 16:49:36,584.user_easy_stats_Julia Fangman.INFO x:[2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
+2023-09-10 16:49:36,584.user_easy_stats_Julia Fangman.INFO y:[41, 42, 55, 41, 54, 53, 32, 65, 82, 61, 74, 75, 70, 61, 78, 64]
+2023-09-10 16:49:36,584.user_easy_stats_Julia Fangman.INFO Calculate the slope and intercept of a best fit straight line:
+2023-09-10 16:49:36,584.user_easy_stats_Julia Fangman.INFO    slope = 2.20
+2023-09-10 16:49:36,584.user_easy_stats_Julia Fangman.INFO    intercept = -4374.85
+2023-09-10 16:49:36,584.user_easy_stats_Julia Fangman.INFO Let's use our best fit line to PREDICT a future value.
+2023-09-10 16:49:36,585.user_easy_stats_Julia Fangman.INFO    At future x = 2025,
+2023-09-10 16:49:36,585.user_easy_stats_Julia Fangman.INFO    we predict the value of y will be 80.
+2023-09-10 16:49:36,585.user_easy_stats_Julia Fangman.INFO How'd we do? Does this make sense given the data?

@@ -1,0 +1,24 @@
+2023-09-02 16:57:29,791.xtra_p2.INFO ==================================================
+2023-09-02 16:57:29,792.xtra_p2.INFO Today is 2023-09-02 at 04:57 PM
+2023-09-02 16:57:29,792.xtra_p2.INFO Running on: posix Darwin 22.5.0
+2023-09-02 16:57:29,792.xtra_p2.INFO Python version:  3.11.4
+2023-09-02 16:57:29,792.xtra_p2.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-02 16:57:29,793.xtra_p2.INFO Working dir: /Users/juliafangman/Desktop/Project 2
+2023-09-02 16:57:29,793.xtra_p2.INFO ==================================================
+2023-09-02 16:57:29,793.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-09-02 16:57:29,793.xtra_p2.INFO RETURNING bearcat
+2023-09-02 16:57:29,793.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-09-02 16:57:29,793.xtra_p2.INFO RETURNING bearcat
+2023-09-02 16:57:29,793.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-02 16:57:29,793.xtra_p2.INFO RETURNING hello
+2023-09-02 16:57:29,793.xtra_p2.INFO ===========================================================
+2023-09-02 16:57:29,793.xtra_p2.INFO Running doctest.testmod() function to unit test our code
+2023-09-02 16:57:29,793.xtra_p2.INFO ===========================================================
+2023-09-02 16:57:30,056.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-09-02 16:57:30,056.xtra_p2.INFO RETURNING bearcat
+2023-09-02 16:57:30,057.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-09-02 16:57:30,057.xtra_p2.INFO RETURNING bearcat
+2023-09-02 16:57:30,057.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-02 16:57:30,058.xtra_p2.INFO RETURNING hello
+2023-09-02 16:57:30,060.xtra_p2.ERROR 8 tests failed!
+2023-09-02 16:57:30,060.xtra_p2.INFO Script complete. More info in the log file.

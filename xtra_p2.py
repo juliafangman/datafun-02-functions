@@ -10,6 +10,7 @@ Log the result of each function just before you return the result
  UNIT TESTS BELOW - SPECIFY CORRECT BEHAVIOR
  ----------------------------------------------------------
 
+
 >>> sum_two(1,2)
 3
 
@@ -46,7 +47,19 @@ logger, logname = setup_logger(__file__)
 # TODO: Log each time the function is called (along with its arguments)
 # TODO: Log the result of each function just before you return the result
 
+import math
+def sum_two(a,b):
+    return (a + b)
 
+def sum_two(hello,world):
+    return (hello, world)
+
+a = 1
+b = 1
+c = 3
+d = 3
+def sum_rectangle_list(a,b,c,d):
+    return (a+b+c+d)
 
 
 # TODO: Fix this function to get just the first 3 letters (possibly reversed)
@@ -92,4 +105,3 @@ if __name__ == "__main__":
         logger.error(f"{doctest_result.failed} tests failed!")
 
     logger.info("Script complete. More info in the log file.")
-        

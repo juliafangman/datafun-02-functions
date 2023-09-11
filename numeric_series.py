@@ -175,4 +175,3 @@ if __name__ == "__main__":
         logger.info(f"Mean: {object.mean()}")
         logger.info(f"Median: {object.median()}")
         logger.info("------------------")
-
